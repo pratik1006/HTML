@@ -1,5 +1,5 @@
-Design a HTML form that format the paragraph using different formatting tags.
+Write an HTML program to format the paragraph using different formatting tags.
 
-Design a HTML form that allows to access another document using an HTML file path (i.e., absolute and relative).
+Write an HTML program to access another document using an HTML file path (i.e., absolute and relative).
 
-Design a HTML form that consists of a single-line text field, radio button, checkbox, submit button,  and clickable button.
+Write an HTML program that consists of a single-line text field, radio button, checkbox, submit button,  and clickable button.
